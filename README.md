@@ -1,4 +1,7 @@
 # SGD-Classifier
+# EXPERIMENT NO: 7
+
+# DATE: 
 ## AIM:
 To write a program to predict the type of species of the Iris flower using the SGD Classifier.
 
